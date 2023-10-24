@@ -55,7 +55,7 @@ import java.util.Scanner;
               "\ncorre para a bola e chuta no canto esquerdo do goleiro ,,\n"+
               "\nconsegue marcar o gol,abre o placar ,,\n"+
               "\nmais falta 15 minutos e pode acontecer mais coisas..\n"+
-              "\n\nCONTIN");
+              "\n\nCONTINUA");
            }
            }
            }
