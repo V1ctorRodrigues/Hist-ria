@@ -3,7 +3,7 @@ import java.util.Scanner;
        public static void main(String[] args) throws Exception {
            System.out.println("Oi,você pode fazer parte do livro interativo,\n"+
            "me ajudando a construir uma historia.\n"+
-           "\nVamos lá?  - sim  - nao\n");
+           "\nVamos lá?  - si - nao\n");
            Scanner start = new Scanner(System.in);
            String init = start.nextLine();
            if(init.equalsIgnoreCase("sim")){
