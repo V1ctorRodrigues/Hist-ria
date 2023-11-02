@@ -13,7 +13,7 @@ class Livro_interativo {
             System.out.println("\nBeleza,fica para uma proxima historia\n");
             System.exit(0);
         }
-
+        
         Scanner response = new Scanner(System.in);
         System.out.println("\n Vamos começar a construir a historia.\n");
         System.out.println("\nVocê é um jogador de futebol ,\n" +
